@@ -24,7 +24,6 @@ Java Temellerine Başlangıç
 ## 6.hafta
 # 30.12.2019 Pazartesi
 # 31.12.2019 Salı
-# 01.01.2020 Çarşamba (DERS YOK)
 ## 7.hafta
 # 06.01.2020 Pazartesi
 # 07.01.2020 Salı
@@ -32,5 +31,5 @@ Java Temellerine Başlangıç
 ## 8.hafta
 # 13.01.2020 Pazartesi
 # 14.01.2020 Salı
-# 15.01.2020 Çarşamba (SON DERS)
+# 15.01.2020 Çarşamba
 
