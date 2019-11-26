@@ -4,7 +4,6 @@ Simple Java coding practices
 
 ## 1. Hafta
 # 27.11.2019 Çarşamba
-Java Temellerine Başlangıç
 ## 2.hafta
 # 02.12.2019 Pazartesi
 # 03.12.2019 Salı
